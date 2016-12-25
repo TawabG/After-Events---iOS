@@ -1,0 +1,6 @@
+framework module Pods_smiosUITests {
+  umbrella header "Pods-smiosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
